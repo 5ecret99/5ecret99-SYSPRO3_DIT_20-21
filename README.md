@@ -8,7 +8,7 @@ commands:
 
 tested on: linux mint(my personal computer),linux university machines
 
-To programma aptous elegxous mou doulevei gia olles tis periptwseis (to exw dokimasei me 1-20 monitor socketBufferSize 1-100 cyclicBufferSize 5-20  sizeofBloom 100000++  me 1-15 thread se 70000 records).Exw simperilavi sxolia ston kwdika gia olo ton neo kwdika pou e3igoun ti kanw kata gramma,opotan to 8ewrisa fliaro na grafw ta idia kai sto Readme.
+To programma aptous elegxous mou doulevei gia olles tis periptwseis (to exw dokimasei me 1-20 monitor socketBufferSize 1-100 cyclicBufferSize 5-20  sizeofBloom 100000++  me 1-15 thread se 70000 records).Exw simperilavi sxolia ston kwdika gia olo ton neo kwdika pou e3igoun ti kanw.
 
 arxeia:
 
